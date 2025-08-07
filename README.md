@@ -22,7 +22,7 @@ This is a basic command-line calculator built with Python. It allows users to pe
 
 ## 📦 How to Run
 
-1. Clone or download the repository.
+1. Clone or download the repository: gh repo clone NeliswaQwabe/python_calculaor
 2. Open a terminal and navigate to the project directory.
 3. Run the program using:
 
